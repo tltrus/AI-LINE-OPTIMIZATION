@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="DeepSeekGEN/DeepSeek-GEN.csproj" />
+  <Project Path="DeepSeekAnnealing/DeepSeek-Annealing.csproj" />
+</Solution>
