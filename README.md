@@ -4,6 +4,8 @@ The objective of this project is to demonstrate practical skills in applying art
 
 **AI DeepSeek + C# App generation.**
 
+In path **Line-optimization-1/_FILES** there is a presentation with project description and DeepSeek prompt.
+
 Youtube:
 
 Rutube: https://rutube.ru/video/private/827a4a5eb41f22e9d708423d3187be59/?p=bMIEGhdKngglXYPIYHLsFQ
