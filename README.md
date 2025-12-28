@@ -8,6 +8,4 @@ Youtube:
 
 Rutube: https://rutube.ru/video/private/827a4a5eb41f22e9d708423d3187be59/?p=bMIEGhdKngglXYPIYHLsFQ
 
-![Uploading image.png…]()
-
-
+<img width="1265" height="700" alt="image" src="https://github.com/user-attachments/assets/6ee58649-10fb-47d4-948d-f19f29244a7c" />
